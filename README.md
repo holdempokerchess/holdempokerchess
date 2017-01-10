@@ -17,3 +17,5 @@ These are the basic rules, some explanations and examples should make the rest c
 An explanation of how each card *attacks*
 
 ### Pawns : Two, Three, Four, Five, Six, Seven, Eight, Nine
+
+![Pawn Attacks](https://github.com/holdempokerchess/holdempokerchess/blob/master/images/pawn-attacks.png?raw=true)
