@@ -45,6 +45,7 @@ There are a few rules about card placement.
 5. You can't place a card where it would block the *turn* or the *river* (the last two cards dealt in to the center).
 6. Your cards can be placed on either side of the table, but pawns are always assumed to attack towards the center cards.
 7. Your cards are placed facedown and are hidden until the showdown, you aren't required to attack any cards as long as the card is placed legally, you can bluff!
+8. You have to remember where your placed your cards, you can use tokens to help remember.. but no peeking.
 
 Here is an example of someone's turn after the flop as they decide whether to place any cards.
 ![Flop Moves](https://github.com/holdempokerchess/holdempokerchess/blob/master/images/flop-moves.png?raw=true)
