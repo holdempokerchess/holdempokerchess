@@ -32,7 +32,6 @@ An explanation of how each card *attacks*. Often the high poker value cards have
 ![Rook Attacks](https://github.com/holdempokerchess/holdempokerchess/blob/master/images/rook-ten-attacks.png?raw=true)
 
 ### Pawn : Two, Three, Four, Five, Six, Seven, Eight, Nine
-
 ![Pawn Attacks](https://github.com/holdempokerchess/holdempokerchess/blob/master/images/pawn-attacks.png?raw=true)
 
 ## Card Placement
@@ -48,3 +47,4 @@ There are a few rules about card placement.
 7. Your cards are placed facedown and are hidden until the showdown, you aren't required to attack any cards as long as the card is placed legally, you can bluff!
 
 Here is an example of someone's turn after the flop as they decide whether to place any cards.
+![Flop Moves](https://github.com/holdempokerchess/holdempokerchess/blob/master/images/flop-moves.png?raw=true)
