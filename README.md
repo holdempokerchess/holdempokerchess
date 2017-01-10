@@ -14,8 +14,23 @@ These are the basic rules, some explanations and examples should make the rest c
 
 ## Chess Cards
 
-An explanation of how each card *attacks*
+An explanation of how each card *attacks*. Often the high poker value cards have powerful chess attacks to match but there are some differences, the *Ace* is the *Bishop* and the *Ten* is the *Rook*.
 
-### Pawns : Two, Three, Four, Five, Six, Seven, Eight, Nine
+### King
+![King Attacks](https://github.com/holdempokerchess/holdempokerchess/blob/master/images/king-attacks.png?raw=true)
+
+### Queen
+![Queen Attacks](https://github.com/holdempokerchess/holdempokerchess/blob/master/images/queen-attacks.png?raw=true)
+
+### Bishop : Ace
+![Ace Attacks](https://github.com/holdempokerchess/holdempokerchess/blob/master/images/ace-bishop-attacks.png?raw=true)
+
+### Knight : Jack
+![Knight Attacks](https://github.com/holdempokerchess/holdempokerchess/blob/master/images/jack-knight-attacks.png?raw=true)
+
+### Rook : Ten
+![Rook Attacks](https://github.com/holdempokerchess/holdempokerchess/blob/master/images/rook-ten-attacks.png?raw=true)
+
+### Pawn : Two, Three, Four, Five, Six, Seven, Eight, Nine
 
 ![Pawn Attacks](https://github.com/holdempokerchess/holdempokerchess/blob/master/images/pawn-attacks.png?raw=true)
