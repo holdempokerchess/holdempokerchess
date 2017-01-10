@@ -14,7 +14,7 @@ These are the basic rules, some explanations and examples should make the rest c
 
 ## Chess Cards
 
-An explanation of how each card *attacks*. Often the high poker value cards have powerful chess attacks to match but there are some differences, the *Ace* is the *Bishop* and the *Ten* is the *Rook*.
+An explanation of how each card *attacks*. Often the high poker value cards have powerful chess attacks to match but there are some differences, the *Ace* is the *Bishop* and the *Ten* is the *Rook*. The cards don't move once placed and their attacks aren't blocked by other cards, this means cards that attack the whole center row can be very useful because they give you a lot of options.
 
 ### King
 ![King Attacks](https://github.com/holdempokerchess/holdempokerchess/blob/master/images/king-attacks.png?raw=true)
