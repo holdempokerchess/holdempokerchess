@@ -12,7 +12,7 @@ The basic differences are:
 
 These are the basic rules, some explanations and examples should make the rest clear.
 
-## Chess Cards
+## Chess Card Attacks
 
 An explanation of how each card *attacks*. Often the high poker value cards have powerful chess attacks to match but there are some differences, the *Ace* is the *Bishop* and the *Ten* is the *Rook*. The cards don't move once placed and their attacks aren't blocked by other cards, this means cards that attack the whole center row can be very useful because they give you a lot of options.
 
@@ -34,3 +34,17 @@ An explanation of how each card *attacks*. Often the high poker value cards have
 ### Pawn : Two, Three, Four, Five, Six, Seven, Eight, Nine
 
 ![Pawn Attacks](https://github.com/holdempokerchess/holdempokerchess/blob/master/images/pawn-attacks.png?raw=true)
+
+## Card Placement
+
+There are a few rules about card placement.
+
+1. You can only place cards *after the flop* (after the first three center cards are dealt). 
+2. You can only place cards when it's your turn to bet.
+3. You can place one, both or none of your *hole* cards. If you don't place a card you can still call, raise or check as normal.
+4. You have to place a card *adjacent* to a card already on the table, so orthogonally or diagonally in the imaginary grid of cards.
+5. You can't place a card where it would block the *turn* or the *river* (the last two cards dealt in to the center).
+6. Your cards can be placed on either side of the table, but pawns are always assumed to attack towards the center cards.
+7. Your cards are placed facedown and are hidden until the showdown, you aren't required to attack any cards as long as the card is placed legally, you can bluff!
+
+Here is an example of someone's turn after the flop as they decide whether to place any cards.
