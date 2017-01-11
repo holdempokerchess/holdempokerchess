@@ -77,3 +77,5 @@ There a few rules to govern how this occurs:
  - Hand of (Queen, Three, Two) beats a hand of (Jack, Nine, Seven, Five, Two)
  - Hand of (Seven, Seven, King) beats a hand of (Seven, Seven, Queen, Two, Five)
  - ... and so on ... 
+ 
+ ![Showdown Example](https://github.com/holdempokerchess/holdempokerchess/blob/master/images/showdown-example-1.png?raw=true)
