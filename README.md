@@ -73,4 +73,6 @@ There a few rules to govern how this occurs:
 4. The best poker hand wins. If an active player has kept hole cards in hand then they can still win (i.e. pocket pair) but if another player has an equivalent pair but can make a numerically larger hand (five, four or three cards) then that player wins. These rules are because you might not attack enough cards to make a full hand. The normal rules about high cards apply. For example:
  - Hand of (Ace, Ace) beats a hand of (King, King, Ace) or a hand of (King, King, Ace, Three, Seven)
  - Hand of (Ace, Ace, Two) beats a hand of (Ace, Ace)
- - Hand of (Queen, Three, Two) beats a hand of (Jack, Nine, Seven, Five, Two) 
+ - Hand of (Queen, Three, Two) beats a hand of (Jack, Nine, Seven, Five, Two)
+ - Hand of (Seven, Seven, King) beats a hand of (Seven, Seven, Queen, Two, Five)
+ - ... and so on ... 
