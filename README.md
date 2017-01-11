@@ -79,4 +79,4 @@ There a few rules to govern how this occurs:
  - ... and so on ... 
  
  This example shows a showdown where three players are still *in* (red, blue and purple) as well as cards from folded players, some hidden and some revealed.
- ![Showdown Example](https://github.com/holdempokerchess/holdempokerchess/blob/master/images/showdown-example-1.png?raw=true)
+ ![Showdown Example](https://github.com/holdempokerchess/holdempokerchess/blob/master/images/showdown-example-1-new.png?raw=true)
