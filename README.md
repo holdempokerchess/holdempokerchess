@@ -12,6 +12,9 @@ The basic differences are:
 
 These are the basic rules, some explanations and examples should make the rest clear.
 
+1. [Chess Card Attacks](#chess-card-attacks)
+2. [Card Placement](#card-placement)
+
 ## Chess Card Attacks
 
 An explanation of how each card *attacks*. Often the high poker value cards have powerful chess attacks to match but there are some differences, the *Ace* is the *Bishop* and the *Ten* is the *Rook*. The cards don't move once placed and their attacks aren't blocked by other cards, this means cards that attack the whole center row can be very useful because they give you a lot of options.
