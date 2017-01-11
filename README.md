@@ -78,5 +78,5 @@ There a few rules to govern how this occurs:
  - Hand of (Seven, Seven, King) beats a hand of (Seven, Seven, Queen, Two, Five)
  - ... and so on ... 
  
- This example shows a showdown where three players are still *in" (red, blue and purple) as well as cards from folded players, some hidden and some revealed.
+ This example shows a showdown where three players are still *in* (red, blue and purple) as well as cards from folded players, some hidden and some revealed.
  ![Showdown Example](https://github.com/holdempokerchess/holdempokerchess/blob/master/images/showdown-example-1.png?raw=true)
