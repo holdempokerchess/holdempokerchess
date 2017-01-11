@@ -60,3 +60,17 @@ There are a few rules about card placement.
 
 Here is an example of someone's turn after the flop as they decide whether to place any cards.
 ![Flop Moves](https://github.com/holdempokerchess/holdempokerchess/blob/master/images/flop-moves.png?raw=true)
+
+## Showdown 
+
+The game proceeds like a normal round of Texas Hold'em as players choose to bet, check, raise or fold; with the exception that the players are also potentially placing their hidden cards on to the center grid when it is their turn to bet. Eventually, if there are still players in the round there is a showdown where cards are revealed and it's decided who wins.
+
+There a few rules to govern how this occurs:
+
+1. Each player makes their best normal poker hand from their choice of hole card(s), their revealed attacking cards and any attacked cards.
+2. A player can choose not to reveal an attacking card if they don't use it in their hand, but if an opponent can attack it then that player can force it to be revealed.
+3. Hidden cards from folded players are only revealed if an active player can attack them and wants them to be revealed, then they can be used like a normal attacked card in a player's hand.
+4. The best poker hand wins. If an active player has kept hole cards in hand then they can still win (i.e. pocket pair) but if another player has an equivalent pair but can make a numerically larger hand (five, four or three cards) then that player wins. These rules are because you might not attack enough cards to make a full hand. The normal rules about high cards apply. For example:
+ - Hand of (Ace, Ace) beats a hand of (King, King, Ace) or a hand of (King, King, Ace, Three, Seven)
+ - Hand of (Ace, Ace, Two) beats a hand of (Ace, Ace)
+ - Hand of (Queen, Three, Two) beats a hand of (Jack, Nine, Seven, Five, Two) 
