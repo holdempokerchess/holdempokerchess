@@ -14,6 +14,7 @@ These are the basic rules, some explanations and examples should make the rest c
 
 1. [Chess Card Attacks](#chess-card-attacks)
 2. [Card Placement](#card-placement)
+3. [Showdown](#showdown)
 
 ## Chess Card Attacks
 
