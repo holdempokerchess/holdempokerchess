@@ -19,6 +19,13 @@ These are the basic rules, some explanations and examples should make the rest c
 
 An explanation of how each card *attacks*. Often the high poker value cards have powerful chess attacks to match but there are some differences, the *Ace* is the *Bishop* and the *Ten* is the *Rook*. The cards don't move once placed and their attacks aren't blocked by other cards, this means cards that attack the whole center row can be very useful because they give you a lot of options.
 
+1. [King](#king)
+2. [Queen](#queen)
+3. [Bishop : Ace](#bishop--ace)
+4. [Knight : Jack](#knight--jack)
+5. [Rook : Ten](#rook--ten)
+6. [Pawn : Two, Three, Four, Five, Six, Seven, Eight, Nine](#pawn--two-three-four-five-six-seven-eight-nine)
+
 ### King
 ![King Attacks](https://github.com/holdempokerchess/holdempokerchess/blob/master/images/king-attacks.png?raw=true)
 
